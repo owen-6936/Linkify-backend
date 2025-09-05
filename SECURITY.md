@@ -8,9 +8,9 @@ We appreciate responsible disclosure and will respond as soon as possible.
 ## Supported Versions
 
 | Version | Supported          |
-| ------- | ----------------- |
-| Latest  | :white_check_mark:|
-| Older   | :x:               |
+| ------- | ------------------ |
+| Latest  | :white_check_mark: |
+| Older   | :x:                |
 
 ## Security Updates
 
