@@ -28,7 +28,7 @@
     "express": "^5.1.0",
     "helmet": "^8.1.0",
     "mysql2": "^3.14.3",
-    "nanoid": "^5.1.5",
+    "nanoid": "^5.1.6",
     "winston": "^3.17.0"
   },
   "devDependencies": {
